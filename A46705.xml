@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Dangerous imposture of Quakerism represented in a letter to a friend.</title>
+         </titleStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46705</idno><idno type="EEBO-CITATION">10785011</idno>
+  <idno type="VID">45863</idno>
+  <idno type="EEBO-PROQUEST">2264179567</idno>
+  
+            <idno type="STC">Wing J514B</idno>
+            <idno type="STC">ESTC R28950</idno>
+            <idno type="OCLC">10785011</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A46705)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45863)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1387:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Dangerous imposture of Quakerism represented in a letter to a friend.</title>
+                  <author>Jeffery, John, 1647-1720.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Caption title.</note>
+                  <note>Attributed by Wing to John Jeffrey.</note>
+                  <note>This item appears as D198 Variant (Wing 1st ed.) at reel 888:22, and as J514B (Wing 2nd ed.) at reel 1387:13. Copy at reel 888:22 has t.p., includes "The true nature and pernicious consequences of canting about religion", and has been cataloged separately.</note>
+                  <note>Reproduction of original in the Trinity College Library, Cambridge University.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:45863:1"/>
+            <pb n="1" facs="tcp:45863:1"/>
+            <head>THE Dangerous <hi>Imposture</hi> OF QUAKERISM, Represented in a Letter to a Friend.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>HAVING lately read <hi>George Fox</hi>'s <hi>Journal,</hi> I send you the Observations I made concerning <hi>The Dangerous Imposture of Quakerism:</hi> And that which I am to acquaint you with upon this Subject, may be divided into what relates to its <hi>Real Au<g ref="char:EOLhyphen"/>thor</hi> and <hi>Doctrine,</hi> or to its pretended <hi>Original</hi> and <hi>Proof.</hi>
+            </p>
+            <p n="1">I. The <hi>Real Author</hi> of this <hi>Imposture</hi> was <hi>George Fox:</hi> and 'tis worth our taking Notice of, what his true Character was. He was, when he began to publish his Doctrine, a <hi>Young Man,</hi> who had had a Religious Education, and in the Nineteenth and Twentieth Years of his Age, was exer<g ref="char:EOLhyphen"/>cised with strong Temptations to <hi>Despair,</hi> and was un<g ref="char:EOLhyphen"/>der great Troubles and Disorders of Mind on that account, such as could not be removed by those Ministers that he had recourse unto.</p>
+            <p>Upon this, he betook himself to Retirement and <hi>Soli<g ref="char:EOLhyphen"/>tude,</hi> Night and Day, to much Fasting, Reservedness, and Melancholy, and estranging himself from Society,
+<pb n="2" facs="tcp:45863:2"/>went alone into <hi>Solitary Places</hi> with his Bible, and his own Thoughts.</p>
+            <p>By degrees, he imagined that God made known his Will to him; and <hi>opened to him</hi> (as his Phrase is) that <hi>the Light of Christ within Man,</hi> was to be his Instructor and Guide in Matters of Religion. And through this Ima<g ref="char:EOLhyphen"/>gination, he sometimes gain'd Comfort and Joy; and by degrees arrived at extreme Presumption and Confidence.</p>
+            <p>When he affirmed, That <hi>Christ</hi> was in <hi>him,</hi> he did not mean that the <hi>Man Jesus</hi> of <hi>Nazareth</hi> was in him; but that the same Divinity that is called the <hi>Word</hi> and the <hi>Light, (John</hi> 1.1-7-13.) which was in <hi>Jesus</hi> of <hi>Na<g ref="char:EOLhyphen"/>zareth,</hi> was also (though not in the same measure) in <hi>George Fox.</hi> But the <hi>Word</hi> and the <hi>Light</hi> is the same Di<g ref="char:EOLhyphen"/>vinity, as all Orthodox Christians mean by the <hi>Second Person in the Blessed Trinity,</hi> (1 <hi>John</hi> 5.7.) His <hi>Fundamen<g ref="char:EOLhyphen"/>tal</hi> Doctrine then was this, That the Second Person in the Blessed Trinity, dwells as truly in every <hi>Quaker,</hi> though not as much as he did in <hi>Jesus</hi> of <hi>Nazareth.</hi> But although the Third Person in the Trinity, <hi>viz.</hi> the <hi>Holy Ghost</hi> dwells in other Men, yet the <hi>Word</hi> or <hi>Son (i. e.</hi> the Se<g ref="char:EOLhyphen"/>cond Person in the Trinity) never did dwell in any Man, but in the Man <hi>Jesus</hi> of <hi>Nazareth</hi> only, who was the <hi>Christ of God,</hi> as in him the Word was made Flesh, (<hi>John</hi> 1.14.) or the Son of God was Incarnate, and who is over all, God blessed for ever, (<hi>Rom.</hi> 9.5.)</p>
+            <p>But, for <hi>George Fox</hi> to affirm, that <hi>Christ</hi> was <hi>in him,</hi> is an excess of Error and Profaneness, such as no sober Christian, who knows, that by this his Blessed Saviour is <hi>distinguished</hi> from, and <hi>exalted</hi> above the highest Angels, can endure to hear without the utmost Abhorrence and Abomination.</p>
+            <p>This is the <hi>Fundamental Error</hi> and <hi>Prodigious Delusion</hi> that the Author of <hi>Quakerism</hi> entertain'd and set up in the World, and this his Followers defend and maintain to this day.</p>
+            <p>When he communicated his Notions to others, and at their <hi>Convincement</hi> (as he speaks) great <hi>Horror and Trem<g ref="char:EOLhyphen"/>bling</hi> fell upon them; Insomuch, that some of the Com<g ref="char:EOLhyphen"/>pany
+<pb n="3" facs="tcp:45863:2"/>affirm'd, that not only the Persons, but also the <hi>Church</hi> it self (in which they sometimes were) did <hi>shake,</hi> and they were afraid it should fall upon their Heads.</p>
+            <p>The <hi>Extravagancy</hi> of the Discourses and Actions of this Person, is manifest in his Life. Upon the consideration of which, together with the preternatural Effects his Addresses had upon his Converts, I made these <hi>Questions,</hi> (1.) Whether there were fuller evidence that <hi>Oliver</hi>'s <hi>Porter</hi> in <hi>Bedlam</hi> was a Madman, than that <hi>George Fox</hi> was so? And (2.) Whether (setting aside the Testimony of the Evangelists, who say that <hi>Demoniacks</hi> were brought to our Saviour to be cured) it be more manifest from their Words and Actions, that those Persons were possessed with the Devil, than that <hi>George Fox,</hi> and other <hi>Primitive Quakers,</hi> were such possess'd Persons?</p>
+            <p>Now, every one knows that a <hi>Quaker</hi> receives the ab<g ref="char:EOLhyphen"/>surd Doctrines, and imitates the melancholy behaviour of <hi>George Fox,</hi> who was the real <hi>Author,</hi> and the Original <hi>Pattern</hi> of this Religious Madness.</p>
+            <p n="2">II. The <hi>Doctrines</hi> of <hi>Quakerism</hi> may be distinguished into what is <hi>Pernicious,</hi> and what is <hi>Trifling.</hi>
+            </p>
+            <p>
+               <hi>First,</hi> The <hi>Pernicious</hi> Doctrines of <hi>Quakerism</hi> are so, with respect to <hi>Human Society,</hi> or to <hi>Christian Religion.</hi>
+            </p>
+            <p n="1">1. The Doctrines of <hi>Quakerism</hi> which are <hi>Pernicious</hi> to <hi>Human Society,</hi> are these,</p>
+            <p n="1">(1.) The denying the <hi>lawfulness</hi> of an <hi>Oath,</hi> even in Courts of <hi>Judicature:</hi> An Oath being the highest Assu<g ref="char:EOLhyphen"/>rance one Man can give another of his Veracity; and the Cases in which an Oath is demanded, being such, where<g ref="char:EOLhyphen"/>in the highest Assurance is reasonable, because the Estates and Lives of Men are in Question. But this Doctrine of <hi>Quakerism</hi> destroys this Security, under pretence that e<g ref="char:EOLhyphen"/>very <hi>Oath</hi> is a gross Sin.</p>
+            <p n="2">(2.) The denying outward <hi>Respect</hi> of Persons (such as putting off the <hi>Hat</hi> in the presence of Superiors, is among us) weakens the Reverence that the greatest part of Men ought to have towards those in <hi>Authority,</hi> which Reverence cannot (according to the Opinion of
+<pb n="4" facs="tcp:45863:3"/>all Nations) otherwise be preserved in the <hi>Vulgar,</hi> than by visible Marks of Distinction and Distance. But, such <hi>Formalities</hi> requisite to Government, the Quakers deny, under pretence that 'tis their necessary Duty so to do; and that <hi>they</hi> have received a greater Honour from God than this which their Superiors require from them.</p>
+            <p n="3">(3.) The denying the Lawfulness of <hi>Fighting</hi> (or the use of the <hi>Carnal Weapon</hi>) for Private or Publick necessa<g ref="char:EOLhyphen"/>ry <hi>Defence,</hi> is a Doctrine which (so far as it is received) weakens a Nation, and renders the <hi>Protection</hi> of Right, impossible, against those who shall by open War, or pri<g ref="char:EOLhyphen"/>vate Violence, invade it. And did not the <hi>Quakers</hi> re<g ref="char:EOLhyphen"/>ceive <hi>Protection</hi> through the Labours, and Sufferings, and <hi>Blood</hi> of others, they would soon be made sensible (when too late) of the <hi>pernicious</hi> Nature of this Error.</p>
+            <p>These Doctrines of the <hi>Quakers</hi> are <hi>Pernicious</hi> to <hi>Human Society;</hi> and therefore ought not to be received, or en<g ref="char:EOLhyphen"/>couraged by any who love their Rights, their Liberty, and their Country.</p>
+            <p n="2">2. Besides these, there are other Errors <hi>pernicious</hi> to the <hi>Christian Religion;</hi> and they are such as these:</p>
+            <p n="1">(1.) The denying the use of the Two <hi>Sacraments, Baptism</hi> and the <hi>Lord</hi>
+               <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <hi>Supper,</hi> by which Christians are distinguished from Infidels, and obliged to live according to the Holy Laws of their Religion. The <hi>Son of God</hi> judg'd it expedient to establish these <hi>Sensible Rites</hi> for Re<g ref="char:EOLhyphen"/>ligious Purposes, to be used by Men who <hi>must</hi> live by Sense; but the <hi>Quakers</hi> deny the Obligation, Use, and Benefit of them.</p>
+            <p n="2">(2.) Another Doctrine <hi>pernicious</hi> to <hi>Christian Religion,</hi> is, the denying and vilifying a <hi>Learned Ministry</hi> as unne<g ref="char:EOLhyphen"/>cessary and unlawful; whereas it is not possible rightly to understand the Doctrine of God delivered in the Lan<g ref="char:EOLhyphen"/>guage of Men, without that <hi>Learning</hi> which is necessary to the understanding of that Language; and such neces<g ref="char:EOLhyphen"/>sary Learning is very <hi>much more</hi> than an unlearned Man (such as <hi>George Fox</hi> was) can be aware of. Add to this (and in Order to the Subverting of a Learned Ministry) their forbidding the payment of <hi>Tythes,</hi> as if so doing
+<pb n="5" facs="tcp:45863:3"/>were denying of Christ. By this means, they <hi>rob</hi> the Ministers of that maintenance which the Laws of the Land have provided for those who spend their whole time in the Study and Teaching of Religion; calling such <hi>Learn<g ref="char:EOLhyphen"/>ed and Godly Ministers of Christ,</hi> by the opprobrious Name of <hi>Hirelings;</hi> though <hi>Christ</hi> himself said, Luke 7.10. <hi>The Labourer is worthy of his Hire;</hi> and though the Laws of <hi>England</hi> give every Incumbent as good a Title to his Tythes, as any Landlord hath to his Rent, or to his E<g ref="char:EOLhyphen"/>state.</p>
+            <p n="3">(3.) Again, the <hi>Quakers</hi> deny the <hi>Sufficiency</hi> of the <hi>Holy Scriptures,</hi> and pretend that no Man <hi>can</hi> understand them, unless he hath the <hi>same Spirit</hi> by which the Doctrine of the Scriptures was given forth. Nor will they (that I can find) allow any one <hi>to be in that Spirit</hi> which is ne<g ref="char:EOLhyphen"/>cessary to the understanding of the Scriptures, who is not a <hi>Quaker.</hi> This is to affirm, That God has so spoken in the <hi>Scriptures,</hi> (which contain his Revelation) as no Man <hi>can</hi> (without a repeated Revelation) understand what he has spoken in them; and that the <hi>Quakers</hi> only have this Privilege. This Doctrine is manifestly <hi>pernicious</hi> to the <hi>Christian Religion,</hi> whereby Arbitrary <hi>Enthusiasm</hi> is set up for the Interpreter of the written Word of God, and Rule of Religion.</p>
+            <p>And now I appeal to any <hi>Reasonable</hi> Man, whether the Doctrines aforesaid be not <hi>Pernicious</hi> to <hi>Human So<g ref="char:EOLhyphen"/>ciety,</hi> and to <hi>Christian Religion?</hi> I appeal to <hi>George Fox's Journal,</hi> whether these be not Doctrines of <hi>Quakerism?</hi>
+            </p>
+            <p n="2">
+               <hi>2dly.</hi> Besides these <hi>Pernicious</hi> Doctrines, there are others which are <hi>Trifling;</hi> such as these,</p>
+            <p n="1">(1.) Their making it a kind of Religious Duty, to say <hi>Thou</hi> and <hi>Thee</hi> to a single Person, and pretending it un<g ref="char:EOLhyphen"/>lawful to say <hi>You</hi> to such an one; which, at worst were but an Impropriety of Speech. But if <hi>Custom</hi> be the on<g ref="char:EOLhyphen"/>ly Rule of Language, as certainly 'tis; then is <hi>You</hi> (in Conversation) good and lawful <hi>English</hi> when used to a single Person, or to many; though <hi>Thou</hi> be only the Sin<g ref="char:EOLhyphen"/>gular Number, and <hi>Ye</hi> be only the Plural; whereas <hi>You</hi> is both Singular and Plural; but to make Religion of this, is <hi>Trifling.</hi>
+            </p>
+            <p n="2">
+               <pb n="6" facs="tcp:45863:4"/> (2.) Again, to adhere Religiously to the particular <hi>English</hi> words, <hi>Yea</hi> and <hi>Nay,</hi> is another weakness, when <hi>Yes</hi> and <hi>No</hi> are as good <hi>English,</hi> and more commonly used.</p>
+            <p>To these <hi>Doctrines</hi> which are <hi>Trifling,</hi> we may add,</p>
+            <p n="1">(1.) Their peculiar <hi>Custom</hi> of <hi>Marriages</hi> and <hi>Burials;</hi> their unreasonable Opposition to the Form and Manner of Solemnization of <hi>Marriage,</hi> established by Law, as a distinguishing Separation from other Christians, who universally (on such occasions) have the Solemn <hi>Prayers</hi> and <hi>Benediction</hi> of the Ministers of Christ. Their refu<g ref="char:EOLhyphen"/>sing to <hi>Bury</hi> their <hi>Dead</hi> in any place but by themselves; as if they would extend the Marks of their Religious Delusion beyond their Lives.</p>
+            <p n="2">(2.) Their refusing to wear <hi>Lace</hi> and <hi>Light Colours,</hi> as undoubted marks of <hi>Pride</hi> in the <hi>World's Children, (i. e.</hi> other Christians) and at the same time to allow of Flo<g ref="char:EOLhyphen"/>wer'd Silks, and richer Velvet, in <hi>Friends,</hi> (i. e. <hi>Quakers</hi>) though of mean Condition: is more truly the part of <hi>Shameless Impudence,</hi> than of <hi>Christian Gravity.</hi> And the <hi>Green</hi> Apron is almost as singular, as the Reason I am told has been given from it, <hi>viz.</hi> that <hi>Adam</hi> and <hi>Eve</hi> wore Green Aprons. By these <hi>Doctrines</hi> and <hi>Customs,</hi> the <hi>Qua<g ref="char:EOLhyphen"/>kers</hi> are distinguished; and of these Doctrines <hi>George Fox</hi> was the Author.</p>
+            <p n="3">III. The pretended Original of these Doctrines <hi>George</hi> said was Divine, and that <hi>God opened</hi> these things to him, by the <hi>Word of the Lord that came unto him;</hi> and that <hi>God sent him</hi> to Teach these Doctrines, the <hi>Fundamentals</hi> of which are, That the <hi>Light of Christ</hi> is that which every Man ought to be taught by, and that so far as Men are not inlightned by this, the <hi>Scripture</hi> is a <hi>dead Letter</hi> unto them. He that can believe such a Man as <hi>George Fox,</hi> (who never had any learned Education, nor had lived long enough for such an Education, when he began to entertain and publish these Opinions; who by the dis<g ref="char:EOLhyphen"/>orders of <hi>Temptation,</hi> and near approaches to <hi>Despair,</hi> wanted the true and free use of his Reason; and accord<g ref="char:EOLhyphen"/>ingly
+<pb n="7" facs="tcp:45863:4"/>discours'd more like a <hi>Religious Madman,</hi> than a Pro<g ref="char:EOLhyphen"/>phet or Apostle; who had no other Teacher of this Do<g ref="char:EOLhyphen"/>ctrine, but his own disturbed Imagination (as is evident, by the Folly and Confusion of all his Discourses); I say he, who can believe such a Man as this to be <hi>taught of God,</hi> meerly because he says it, one would think, had as little use of Reason, as <hi>George</hi> had, when he became the <hi>first Quaker.</hi> No sensible Man can relish such Dis<g ref="char:EOLhyphen"/>courses as those of <hi>George Fox,</hi> (in which he uses the Holy Scriptures as a <hi>Phrase Book;</hi> and (in a Sense never de<g ref="char:EOLhyphen"/>sign'd by those Words, delivers his own Doctrines) un<g ref="char:EOLhyphen"/>less he lays aside the use of <hi>Reason</hi> in Matters of <hi>Religion;</hi> without the use of which, 'tis impossible there should be any such thing as Religion among Men. But this may be excused in a <hi>Quaker,</hi> whose <hi>Religion</hi> indeed is but the <hi>Spectre</hi> of Religion murdered by <hi>Ignorance</hi> and <hi>Enthusiasm.</hi>
+            </p>
+            <p>I confess I have so much regard to Sense and <hi>Reason</hi> and so honourable a persuasion of <hi>God</hi> and his <hi>Wisdom,</hi> that there is no Proof sufficient to convince me, that God spake by <hi>such</hi> a man as this. But,</p>
+            <p n="4">IV. There is <hi>Proof</hi> which he pretends to, and that no less than (1.) Voices; and (2.) Visions; and (3.) Pro<g ref="char:EOLhyphen"/>phesy; and (4.) Miracles; and (5.) Discerning of Spi<g ref="char:EOLhyphen"/>rits; and (6.) The knowledge of Nature, and the whole Creation; and (7.) Being in the same State that <hi>Adam</hi> was before the Fall; which are more than ever any Prophet or Apostle attained to.</p>
+            <p>To which add (for a colour) first; the <hi>Sufferings</hi> of <hi>George Fox,</hi> which I confess were very great, (as he says) but they manifest nothing, excepting the obstinate <hi>Fol<g ref="char:EOLhyphen"/>ly,</hi> and insolent <hi>Provocation</hi> of him that suffered; and sometimes the <hi>Vices</hi> and <hi>Passions</hi> of those by whom he suffered. (2.) The <hi>Judgments,</hi> which he says, befel the Enemies of him and his Doctrine. Some of these Pre<g ref="char:EOLhyphen"/>tences prove nothing; and others of them need be pro<g ref="char:EOLhyphen"/>ved themselves.</p>
+            <p>And now I desire (if any <hi>doubt</hi> the truth of what I have said) that they would read <hi>George Fox</hi> his <hi>Journal,</hi>
+               <pb n="8" facs="tcp:45863:5"/>as I have done, and see if what I affirm of him, and his Doctrine, be not found there. I think no man can <hi>Ex<g ref="char:EOLhyphen"/>pose</hi> this Sect so much as <hi>George Fox</hi> his <hi>Journal</hi> exposeth it: And therefore, because I believe <hi>Quakerism</hi> to be a <hi>dangerous and wicked Imposture,</hi> I desire men would read the History of its <hi>Author.</hi> And let not any who call themselves <hi>Friends,</hi> count me their <hi>Enemy,</hi> for really I am not such, but do heartily pity them as <hi>Religious Mad<g ref="char:EOLhyphen"/>men;</hi> and never did them any harm, and am resolved I never will.</p>
+            <p>I would <hi>expostulate</hi> with <hi>Them,</hi> out of compassion to their Souls, but that they seem so desperately <hi>conceited</hi> and <hi>prejudiced,</hi> that it must be in vain. <hi>God</hi> grant them the <hi>true Light</hi> of Religious Knowledge, and Wisdom, that they may see the error of their way, and be con<g ref="char:EOLhyphen"/>verted to the acknowledgment of the Truth as it is in Jesus.</p>
+            <p>And as for Those who are not yet of this Persuasion, but think <hi>favourably</hi> of it; I exhort them, in the fear of God, (1.) Never to part with the <hi>Use of their Reason</hi> in the <hi>study of Religion,</hi> where there is the best Exercise, and the greatest Need of it. And (2.) never to think, that what <hi>God</hi> has <hi>Reveal'd</hi> (or made known) in, and by the <hi>Scriptures of Truth,</hi> cannot be understood (or cannot be known) without a <hi>repeated</hi> Revelation (<hi>i. e.</hi> unless it be made known again.) We are sure there is no such Revelation <hi>now,</hi> and that all pretences to it (such as <hi>George Fox</hi> made) are <hi>Imposture.</hi> The good God deliver his Church from <hi>this,</hi> and from all o<g ref="char:EOLhyphen"/>ther <hi>Impostures,</hi> and make men throughly <hi>sensible,</hi> that to ascribe their <hi>own</hi> wild and foolish <hi>Imaginations</hi> to the <hi>Spirit of God,</hi> has in it the Nature of <hi>Blasphemy.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>I am<lb/> Your Friend and Servant.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed for <hi>A. Baldwin,</hi> near the <hi>Oxford-Arms</hi> in <hi>Warwick lane.</hi> 1699.</p>
+            <pb facs="tcp:45863:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
